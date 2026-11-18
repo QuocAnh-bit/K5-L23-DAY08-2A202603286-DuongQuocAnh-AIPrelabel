@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,NA,"Không ghi đồng hồ trong lúc gán; thời lượng chính xác chưa được lưu."
+batch_review,24,NA,"Không ghi đồng hồ trong lúc duyệt; thời lượng chính xác chưa được lưu."

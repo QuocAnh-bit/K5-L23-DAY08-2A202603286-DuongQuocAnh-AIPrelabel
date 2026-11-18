@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,16,sai_vi_tri_kich_thuoc,DuongQuocAnh,"Box three_wheeler ôm cả phần hàng/cấu trúc bạt lớn; cần tách theo quy tắc hàng cồng kềnh, chỉ giữ phần phương tiện."
+img_006.jpg,,khong,DuongQuocAnh,"Đã kiểm các box nhìn thấy; chưa thấy lỗi chắc chắn về lớp hoặc vị trí ở mức kiểm bằng mắt."
+img_014.jpg,,khong,DuongQuocAnh,"Đã kiểm các box người và xe máy; các vật bị cắt ở mép ảnh vẫn được kéo tới mép, chưa thấy lỗi chắc chắn."
+img_031.jpg,473,sai_vi_tri_kich_thuoc,DuongQuocAnh,"Box bicycle bao trùm cả hai giỏ/hàng cồng kềnh vượt xa thân xe; cần thu box về phần xe đạp theo guideline."
+img_035.jpg,,khong,DuongQuocAnh,"Đã kiểm các box xe máy, xe ba bánh và người; chưa thấy lỗi chắc chắn ở mức kiểm bằng mắt."

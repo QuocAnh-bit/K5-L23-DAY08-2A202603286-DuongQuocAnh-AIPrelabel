@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,"img_013.jpg|img_004.jpg",loi_may,"Model đóng có thể gọi tuk-tuk/xe ba bánh là car hoặc truck","Gán three_wheeler cho xe ba bánh có mui hoặc khung; người lái gán person riêng","Mục 2: xe ba bánh có mui/khung vẫn là three_wheeler; người lái không gộp vào box xe",v1.1
+CAL-02,img_003.jpg,cau_hoi_mo,"Hàng và bạt cồng kềnh nhô ra khỏi thân xe ba bánh","Box chỉ ôm phần phương tiện nhìn thấy; hàng rời nhô quá khoảng 20% chiều dài không nằm trong box xe","Mục 4.1.5: hàng cồng kềnh tách khỏi box phương tiện; đánh dấu can_review nếu ranh giới không rõ",v1.1
+CAL-03,img_031.jpg,can_review,"Box bicycle có thể ôm cả hai giỏ hàng lớn làm sai kích thước","Thu box về phần xe đạp; không kéo box theo giỏ/hàng nhô rộng","Mục 4.1.5: hàng cồng kềnh không nằm trong box bicycle; kiểm tra lại các box can_review",v1.1
